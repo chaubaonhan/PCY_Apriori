@@ -31,6 +31,7 @@ D:.
                 association_rules.txt
                 frequent_1_item.csv
                 frequent_pairs.csv
+```
 ## 📌 Mô tả nội dung
 
 ### Apriori (Java + Hadoop)
@@ -49,7 +50,7 @@ D:.
 
 ### 1. Chạy Apriori trên Hadoop
 
-```bash```    
+```markdown
 # Biên dịch mã Java
 cd apriori/
 javac -classpath `hadoop classpath` -d . Apriori.java
@@ -57,19 +58,21 @@ jar cf apriori.jar Apriori*.class
 
 # Chạy trên Hadoop
 hadoop jar apriori.jar Apriori input_path output_path
-
+```
 ### 2. Mở PCY Notebook
+```markdown
 # Mở notebook
 cd pcy/
 jupyter notebook PCY.ipynb
-
+```
 
 ## 📊 Dữ liệu đầu vào
+
 File văn bản hoặc CSV, mỗi dòng là một giao dịch, các item cách nhau bởi dấu phẩy hoặc khoảng trắng.
 
 Có thể sử dụng dữ liệu từ UCI, Kaggle hoặc dữ liệu thực tế của bạn.
 
-##👨‍💻 Tác giả
+## 👨‍💻 Tác giả
 Châu Bảo Nhân
 
 Email: chaubaonhan89@gmail.com
