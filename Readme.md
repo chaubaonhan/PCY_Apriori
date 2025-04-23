@@ -48,7 +48,7 @@ D:.
 
 ### 1. Chạy Apriori trên Hadoop
 
-```bash
+```bash```    
 # Biên dịch mã Java
 cd apriori/
 javac -classpath `hadoop classpath` -d . Apriori.java
