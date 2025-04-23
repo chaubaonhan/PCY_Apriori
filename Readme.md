@@ -8,6 +8,7 @@ Dự án này triển khai hai thuật toán phổ biến trong khai phá tập 
 - **PCY**: Triển khai trong **Jupyter Notebook**, thích hợp để mô phỏng hoặc thử nghiệm với dữ liệu mẫu, có thể tích hợp với **PySpark**.
 
 ## 📁 Cấu trúc dự án
+```plaintext
 D:.
     │   Readme.md
     │   Report.pdf
