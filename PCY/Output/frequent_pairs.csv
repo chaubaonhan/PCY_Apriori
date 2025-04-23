@@ -1,0 +1,593 @@
+index,pair,support_count
+1,"other vegetables, whole milk",222
+2,"rolls/buns, whole milk",209
+3,"soda, whole milk",174
+4,"whole milk, yogurt",167
+5,"other vegetables, rolls/buns",158
+6,"other vegetables, soda",145
+7,"sausage, whole milk",134
+8,"tropical fruit, whole milk",123
+9,"other vegetables, yogurt",121
+10,"rolls/buns, soda",121
+11,"rolls/buns, yogurt",117
+12,"root vegetables, whole milk",113
+13,"citrus fruit, whole milk",107
+14,"bottled beer, whole milk",107
+15,"bottled water, whole milk",107
+16,"pip fruit, whole milk",99
+17,"pastry, whole milk",97
+18,"shopping bags, whole milk",95
+19,"other vegetables, tropical fruit",94
+20,"rolls/buns, tropical fruit",91
+21,"other vegetables, sausage",90
+22,"canned beer, whole milk",90
+23,"sausage, soda",89
+24,"soda, yogurt",87
+25,"rolls/buns, root vegetables",86
+26,"sausage, yogurt",86
+27,"newspapers, whole milk",84
+28,"bottled water, other vegetables",82
+29,"soda, tropical fruit",81
+30,"rolls/buns, sausage",80
+31,"root vegetables, soda",79
+32,"domestic eggs, whole milk",79
+33,"frankfurter, whole milk",79
+34,"other vegetables, root vegetables",79
+35,"tropical fruit, yogurt",78
+36,"frankfurter, other vegetables",77
+37,"pork, whole milk",75
+38,"other vegetables, pip fruit",74
+39,"pip fruit, rolls/buns",74
+40,"other vegetables, shopping bags",74
+41,"citrus fruit, other vegetables",72
+42,"bottled water, soda",72
+43,"rolls/buns, shopping bags",71
+44,"bottled water, rolls/buns",70
+45,"bottled beer, other vegetables",70
+46,"citrus fruit, rolls/buns",70
+47,"butter, whole milk",70
+48,"beef, whole milk",70
+49,"whipped/sour cream, whole milk",69
+50,"citrus fruit, yogurt",69
+51,"brown bread, whole milk",67
+52,"shopping bags, soda",66
+53,"fruit/vegetable juice, whole milk",66
+54,"root vegetables, yogurt",64
+55,"canned beer, rolls/buns",63
+56,"curd, whole milk",62
+57,"other vegetables, whipped/sour cream",62
+58,"pastry, soda",61
+59,"margarine, whole milk",61
+60,"bottled beer, rolls/buns",60
+61,"canned beer, other vegetables",60
+62,"other vegetables, pork",59
+63,"pip fruit, soda",59
+64,"pastry, rolls/buns",59
+65,"canned beer, yogurt",58
+66,"frozen vegetables, whole milk",57
+67,"coffee, whole milk",57
+68,"bottled water, yogurt",57
+69,"fruit/vegetable juice, rolls/buns",56
+70,"citrus fruit, soda",56
+71,"other vegetables, pastry",55
+72,"root vegetables, tropical fruit",55
+73,"newspapers, other vegetables",55
+74,"frankfurter, rolls/buns",55
+75,"pastry, yogurt",54
+76,"pip fruit, yogurt",54
+77,"bottled water, tropical fruit",53
+78,"shopping bags, yogurt",53
+79,"curd, other vegetables",53
+80,"domestic eggs, other vegetables",53
+81,"bottled water, root vegetables",52
+82,"chicken, whole milk",51
+83,"domestic eggs, rolls/buns",51
+84,"bottled beer, yogurt",51
+85,"soda, whipped/sour cream",51
+86,"pork, rolls/buns",51
+87,"bottled beer, sausage",50
+88,"root vegetables, sausage",50
+89,"brown bread, rolls/buns",50
+90,"root vegetables, shopping bags",50
+91,"pastry, sausage",48
+92,"margarine, other vegetables",48
+93,"white bread, whole milk",47
+94,"bottled water, sausage",47
+95,"butter, soda",47
+96,"canned beer, soda",47
+97,"frozen vegetables, other vegetables",47
+98,"hamburger meat, whole milk",46
+99,"sausage, tropical fruit",46
+100,"brown bread, other vegetables",46
+101,"pork, yogurt",46
+102,"frankfurter, soda",46
+103,"pork, soda",45
+104,"margarine, rolls/buns",45
+105,"newspapers, rolls/buns",45
+106,"fruit/vegetable juice, other vegetables",44
+107,"curd, sausage",44
+108,"onions, whole milk",44
+109,"bottled beer, soda",44
+110,"chocolate, whole milk",44
+111,"rolls/buns, whipped/sour cream",44
+112,"whipped/sour cream, yogurt",44
+113,"citrus fruit, tropical fruit",43
+114,"newspapers, yogurt",43
+115,"cream cheese , whole milk",43
+116,"butter, other vegetables",43
+117,"pastry, root vegetables",43
+118,"brown bread, soda",43
+119,"butter, rolls/buns",43
+120,"bottled water, pastry",43
+121,"chicken, rolls/buns",43
+122,"beef, other vegetables",42
+123,"chocolate, rolls/buns",42
+124,"curd, soda",42
+125,"pastry, tropical fruit",42
+126,"shopping bags, tropical fruit",41
+127,"curd, rolls/buns",41
+128,"ham, whole milk",41
+129,"frozen vegetables, rolls/buns",41
+130,"berries, other vegetables",40
+131,"pip fruit, root vegetables",40
+132,"other vegetables, white bread",39
+133,"waffles, whole milk",39
+134,"coffee, other vegetables",39
+135,"bottled water, citrus fruit",39
+136,"margarine, soda",39
+137,"newspapers, root vegetables",38
+138,"domestic eggs, soda",38
+139,"bottled beer, tropical fruit",38
+140,"frankfurter, yogurt",38
+141,"canned beer, tropical fruit",38
+142,"bottled beer, bottled water",38
+143,"UHT-milk, whole milk",38
+144,"canned beer, sausage",37
+145,"coffee, soda",37
+146,"bottled beer, root vegetables",37
+147,"tropical fruit, whipped/sour cream",37
+148,"sugar, whole milk",37
+149,"root vegetables, whipped/sour cream",37
+150,"coffee, rolls/buns",36
+151,"long life bakery product, whole milk",36
+152,"dessert, whole milk",36
+153,"napkins, whole milk",36
+154,"brown bread, canned beer",36
+155,"newspapers, soda",35
+156,"brown bread, yogurt",35
+157,"berries, whole milk",34
+158,"curd, yogurt",34
+159,"meat, whole milk",33
+160,"bottled water, frankfurter",33
+161,"other vegetables, salty snack",33
+162,"beef, yogurt",33
+163,"frankfurter, root vegetables",33
+164,"hamburger meat, other vegetables",33
+165,"citrus fruit, root vegetables",33
+166,"pastry, pip fruit",33
+167,"fruit/vegetable juice, yogurt",33
+168,"butter, yogurt",33
+169,"chicken, other vegetables",33
+170,"meat, other vegetables",32
+171,"domestic eggs, tropical fruit",32
+172,"napkins, other vegetables",32
+173,"frozen vegetables, root vegetables",32
+174,"fruit/vegetable juice, soda",32
+175,"bottled water, domestic eggs",32
+176,"cream cheese , other vegetables",32
+177,"margarine, yogurt",32
+178,"fruit/vegetable juice, tropical fruit",32
+179,"frozen meals, other vegetables",32
+180,"sausage, whipped/sour cream",32
+181,"rolls/buns, white bread",32
+182,"citrus fruit, pastry",32
+183,"pip fruit, sausage",32
+184,"chicken, soda",32
+185,"UHT-milk, other vegetables",32
+186,"candy, whole milk",32
+187,"pip fruit, tropical fruit",31
+188,"dessert, other vegetables",31
+189,"bottled beer, pastry",31
+190,"frozen vegetables, yogurt",31
+191,"frozen vegetables, sausage",31
+192,"coffee, yogurt",31
+193,"citrus fruit, whipped/sour cream",31
+194,"canned beer, root vegetables",31
+195,"domestic eggs, yogurt",31
+196,"bottled water, pip fruit",30
+197,"frozen vegetables, soda",30
+198,"brown bread, pastry",30
+199,"bottled water, shopping bags",30
+200,"dessert, rolls/buns",30
+201,"newspapers, pastry",30
+202,"butter, root vegetables",30
+203,"coffee, root vegetables",30
+204,"domestic eggs, root vegetables",30
+205,"butter, citrus fruit",29
+206,"ice cream, whole milk",29
+207,"margarine, root vegetables",29
+208,"frozen meals, whole milk",29
+209,"butter, sausage",29
+210,"sausage, shopping bags",29
+211,"rolls/buns, salty snack",29
+212,"salty snack, whole milk",29
+213,"hamburger meat, rolls/buns",29
+214,"oil, whole milk",29
+215,"beverages, whole milk",29
+216,"bottled water, curd",29
+217,"grapes, whole milk",29
+218,"margarine, sausage",28
+219,"cream cheese , rolls/buns",28
+220,"canned beer, newspapers",28
+221,"pip fruit, shopping bags",28
+222,"bottled beer, canned beer",28
+223,"chocolate, other vegetables",28
+224,"canned beer, pastry",28
+225,"beverages, soda",28
+226,"curd, tropical fruit",28
+227,"hard cheese, whole milk",28
+228,"newspapers, tropical fruit",28
+229,"canned beer, shopping bags",28
+230,"bottled water, butter",27
+231,"newspapers, shopping bags",27
+232,"citrus fruit, shopping bags",27
+233,"chicken, yogurt",27
+234,"fruit/vegetable juice, sausage",27
+235,"beef, soda",27
+236,"fruit/vegetable juice, root vegetables",27
+237,"frankfurter, pip fruit",27
+238,"beef, citrus fruit",27
+239,"brown bread, sausage",27
+240,"oil, soda",27
+241,"domestic eggs, sausage",27
+242,"UHT-milk, rolls/buns",27
+243,"bottled water, whipped/sour cream",27
+244,"bottled water, newspapers",27
+245,"oil, other vegetables",27
+246,"newspapers, sausage",27
+247,"citrus fruit, frankfurter",26
+248,"napkins, pastry",26
+249,"onions, rolls/buns",26
+250,"hygiene articles, whole milk",26
+251,"frankfurter, pastry",26
+252,"other vegetables, waffles",26
+253,"napkins, yogurt",26
+254,"beverages, other vegetables",26
+255,"brown bread, citrus fruit",26
+256,"bottled beer, newspapers",26
+257,"napkins, rolls/buns",26
+258,"ice cream, rolls/buns",26
+259,"pork, root vegetables",26
+260,"hamburger meat, yogurt",25
+261,"chocolate, soda",25
+262,"bottled beer, domestic eggs",25
+263,"chewing gum, whole milk",25
+264,"beef, newspapers",25
+265,"semi-finished bread, whole milk",25
+266,"other vegetables, specialty bar",25
+267,"long life bakery product, rolls/buns",25
+268,"brown bread, pip fruit",25
+269,"canned beer, pork",25
+270,"beef, root vegetables",25
+271,"bottled beer, citrus fruit",25
+272,"hard cheese, other vegetables",25
+273,"brown bread, pork",25
+274,"bottled beer, butter",25
+275,"hard cheese, rolls/buns",25
+276,"specialty bar, whole milk",25
+277,"hamburger meat, soda",25
+278,"other vegetables, specialty chocolate",25
+279,"pip fruit, whipped/sour cream",25
+280,"berries, rolls/buns",25
+281,"bottled beer, frankfurter",25
+282,"cat food, whole milk",25
+283,"butter milk, whole milk",25
+284,"curd, whipped/sour cream",25
+285,"bottled beer, fruit/vegetable juice",25
+286,"beef, rolls/buns",24
+287,"canned beer, pip fruit",24
+288,"cream cheese , root vegetables",24
+289,"frankfurter, margarine",24
+290,"cream cheese , yogurt",24
+291,"chocolate, yogurt",24
+292,"pip fruit, pork",24
+293,"citrus fruit, frozen vegetables",24
+294,"rolls/buns, waffles",24
+295,"grapes, other vegetables",24
+296,"ham, other vegetables",24
+297,"canned beer, fruit/vegetable juice",23
+298,"canned beer, citrus fruit",23
+299,"napkins, soda",23
+300,"butter, pastry",23
+301,"UHT-milk, tropical fruit",23
+302,"bottled beer, pip fruit",23
+303,"pork, shopping bags",23
+304,"bottled water, coffee",23
+305,"domestic eggs, newspapers",23
+306,"soda, white bread",23
+307,"pastry, pork",23
+308,"frankfurter, shopping bags",23
+309,"onions, other vegetables",23
+310,"salty snack, yogurt",23
+311,"canned beer, whipped/sour cream",23
+312,"canned beer, white bread",23
+313,"butter, tropical fruit",23
+314,"coffee, tropical fruit",23
+315,"brown bread, frankfurter",23
+316,"beef, brown bread",23
+317,"bottled beer, brown bread",23
+318,"pork, sausage",23
+319,"beverages, sausage",23
+320,"newspapers, whipped/sour cream",23
+321,"bottled water, brown bread",23
+322,"frozen meals, soda",23
+323,"pastry, whipped/sour cream",23
+324,"pork, tropical fruit",23
+325,"berries, soda",22
+326,"processed cheese, rolls/buns",22
+327,"frozen meals, rolls/buns",22
+328,"processed cheese, whole milk",22
+329,"frankfurter, sausage",22
+330,"sliced cheese, whole milk",22
+331,"bottled water, sugar",22
+332,"coffee, frankfurter",22
+333,"bottled water, canned beer",22
+334,"brown bread, tropical fruit",22
+335,"candy, rolls/buns",22
+336,"bottled beer, shopping bags",22
+337,"dessert, sausage",22
+338,"curd, root vegetables",22
+339,"cream cheese , soda",22
+340,"onions, soda",22
+341,"citrus fruit, pip fruit",22
+342,"domestic eggs, shopping bags",22
+343,"margarine, tropical fruit",22
+344,"fruit/vegetable juice, pastry",22
+345,"dessert, soda",22
+346,"frankfurter, whipped/sour cream",22
+347,"salty snack, soda",21
+348,"cream cheese , tropical fruit",21
+349,"bottled water, pork",21
+350,"bottled water, chocolate",21
+351,"citrus fruit, specialty chocolate",21
+352,"beef, margarine",21
+353,"coffee, domestic eggs",21
+354,"chocolate, sausage",21
+355,"bottled beer, frozen vegetables",21
+356,"fruit/vegetable juice, pip fruit",21
+357,"berries, yogurt",21
+358,"butter, newspapers",21
+359,"beef, whipped/sour cream",21
+360,"butter, frankfurter",21
+361,"sausage, white bread",21
+362,"bottled water, margarine",21
+363,"misc. beverages, whole milk",21
+364,"butter, fruit/vegetable juice",21
+365,"coffee, pastry",21
+366,"butter milk, soda",21
+367,"citrus fruit, napkins",21
+368,"soda, specialty chocolate",21
+369,"domestic eggs, frankfurter",21
+370,"curd, pastry",21
+371,"other vegetables, sliced cheese",21
+372,"chicken, tropical fruit",21
+373,"hygiene articles, other vegetables",21
+374,"coffee, shopping bags",21
+375,"grapes, soda",21
+376,"detergent, whole milk",21
+377,"chewing gum, yogurt",21
+378,"butter, margarine",21
+379,"chocolate, tropical fruit",21
+380,"onions, root vegetables",20
+381,"hamburger meat, tropical fruit",20
+382,"canned beer, frankfurter",20
+383,"frankfurter, tropical fruit",20
+384,"citrus fruit, fruit/vegetable juice",20
+385,"frozen meals, yogurt",20
+386,"citrus fruit, coffee",20
+387,"hygiene articles, rolls/buns",20
+388,"curd, frankfurter",20
+389,"specialty chocolate, tropical fruit",20
+390,"canned beer, frozen vegetables",20
+391,"brown bread, root vegetables",20
+392,"domestic eggs, pastry",20
+393,"long life bakery product, soda",20
+394,"frozen vegetables, pip fruit",20
+395,"citrus fruit, pork",20
+396,"red/blush wine, rolls/buns",20
+397,"specialty chocolate, whole milk",20
+398,"meat, root vegetables",20
+399,"curd, pip fruit",20
+400,"pastry, shopping bags",20
+401,"meat, rolls/buns",20
+402,"butter, shopping bags",20
+403,"oil, rolls/buns",20
+404,"flour, whole milk",20
+405,"misc. beverages, rolls/buns",20
+406,"beef, bottled water",20
+407,"chocolate, pip fruit",20
+408,"bottled water, chicken",20
+409,"margarine, pork",20
+410,"root vegetables, waffles",20
+411,"coffee, sausage",20
+412,"margarine, pastry",20
+413,"soda, specialty bar",19
+414,"ham, rolls/buns",19
+415,"beef, curd",19
+416,"margarine, pip fruit",19
+417,"ice cream, other vegetables",19
+418,"berries, tropical fruit",19
+419,"newspapers, pip fruit",19
+420,"butter milk, rolls/buns",19
+421,"citrus fruit, domestic eggs",19
+422,"white wine, whole milk",19
+423,"onions, yogurt",19
+424,"UHT-milk, soda",19
+425,"other vegetables, sugar",19
+426,"hamburger meat, root vegetables",19
+427,"root vegetables, white bread",19
+428,"chicken, shopping bags",19
+429,"hard cheese, yogurt",19
+430,"beef, frozen vegetables",19
+431,"candy, soda",19
+432,"bottled water, white bread",19
+433,"chicken, whipped/sour cream",19
+434,"frozen meals, sausage",19
+435,"misc. beverages, yogurt",19
+436,"butter milk, yogurt",19
+437,"napkins, tropical fruit",19
+438,"beef, shopping bags",19
+439,"chicken, pastry",19
+440,"soft cheese, yogurt",19
+441,"ham, yogurt",19
+442,"butter milk, other vegetables",19
+443,"curd, shopping bags",19
+444,"rolls/buns, specialty chocolate",19
+445,"brown bread, shopping bags",19
+446,"domestic eggs, pork",18
+447,"specialty bar, yogurt",18
+448,"beverages, rolls/buns",18
+449,"dessert, shopping bags",18
+450,"ice cream, soda",18
+451,"soft cheese, whole milk",18
+452,"cream cheese , sausage",18
+453,"bottled water, fruit/vegetable juice",18
+454,"bottled beer, whipped/sour cream",18
+455,"onions, tropical fruit",18
+456,"candy, yogurt",18
+457,"root vegetables, sliced cheese",18
+458,"canned beer, domestic eggs",18
+459,"other vegetables, soft cheese",18
+460,"shopping bags, whipped/sour cream",18
+461,"packaged fruit/vegetables, rolls/buns",18
+462,"rolls/buns, specialty bar",18
+463,"soda, sugar",18
+464,"cream cheese , shopping bags",18
+465,"chicken, citrus fruit",18
+466,"ham, soda",18
+467,"misc. beverages, other vegetables",18
+468,"citrus fruit, sausage",18
+469,"grapes, rolls/buns",18
+470,"canned beer, margarine",18
+471,"chocolate, root vegetables",18
+472,"brown bread, curd",18
+473,"beef, pastry",18
+474,"long life bakery product, yogurt",18
+475,"dessert, yogurt",18
+476,"brown bread, domestic eggs",18
+477,"canned beer, curd",18
+478,"citrus fruit, newspapers",18
+479,"margarine, whipped/sour cream",17
+480,"citrus fruit, margarine",17
+481,"salty snack, sausage",17
+482,"beef, tropical fruit",17
+483,"butter, whipped/sour cream",17
+484,"beef, domestic eggs",17
+485,"curd, pork",17
+486,"ham, tropical fruit",17
+487,"sliced cheese, soda",17
+488,"citrus fruit, white bread",17
+489,"UHT-milk, yogurt",17
+490,"sausage, sliced cheese",17
+491,"other vegetables, red/blush wine",17
+492,"chicken, curd",17
+493,"canned beer, chicken",17
+494,"citrus fruit, curd",17
+495,"bottled beer, curd",17
+496,"candy, other vegetables",17
+497,"UHT-milk, sausage",17
+498,"waffles, yogurt",17
+499,"berries, pip fruit",17
+500,"long life bakery product, other vegetables",17
+501,"butter, pip fruit",17
+502,"herbs, yogurt",17
+503,"herbs, whole milk",17
+504,"frankfurter, fruit/vegetable juice",17
+505,"beef, butter",17
+506,"tropical fruit, waffles",17
+507,"hard cheese, pip fruit",16
+508,"domestic eggs, fruit/vegetable juice",16
+509,"processed cheese, root vegetables",16
+510,"dessert, tropical fruit",16
+511,"bottled water, frozen vegetables",16
+512,"dessert, root vegetables",16
+513,"grapes, root vegetables",16
+514,"long life bakery product, tropical fruit",16
+515,"pasta, whole milk",16
+516,"canned beer, chocolate",16
+517,"onions, whipped/sour cream",16
+518,"bottled water, dessert",16
+519,"white bread, yogurt",16
+520,"coffee, pip fruit",16
+521,"long life bakery product, sausage",16
+522,"frankfurter, newspapers",16
+523,"napkins, root vegetables",16
+524,"cat food, rolls/buns",16
+525,"brown bread, whipped/sour cream",16
+526,"chicken, sausage",16
+527,"bottled beer, hamburger meat",16
+528,"chocolate, citrus fruit",16
+529,"beef, bottled beer",16
+530,"root vegetables, salty snack",16
+531,"frozen fish, whole milk",16
+532,"berries, bottled water",16
+533,"chicken, pip fruit",16
+534,"UHT-milk, bottled water",16
+535,"flour, tropical fruit",16
+536,"chewing gum, other vegetables",16
+537,"grapes, sausage",16
+538,"beverages, bottled water",16
+539,"oil, yogurt",16
+540,"frankfurter, frozen vegetables",16
+541,"detergent, yogurt",16
+542,"hygiene articles, soda",16
+543,"bottled beer, margarine",16
+544,"bottled beer, pork",16
+545,"beef, fruit/vegetable juice",16
+546,"frozen vegetables, tropical fruit",16
+547,"berries, pastry",16
+548,"misc. beverages, sausage",16
+549,"berries, root vegetables",16
+550,"curd, margarine",16
+551,"cream cheese , frankfurter",15
+552,"pickled vegetables, whole milk",15
+553,"rolls/buns, soft cheese",15
+554,"chicken, margarine",15
+555,"curd, dessert",15
+556,"fruit/vegetable juice, margarine",15
+557,"bottled water, onions",15
+558,"misc. beverages, root vegetables",15
+559,"other vegetables, pot plants",15
+560,"butter milk, tropical fruit",15
+561,"salty snack, tropical fruit",15
+562,"other vegetables, semi-finished bread",15
+563,"beef, canned beer",15
+564,"bottled beer, chicken",15
+565,"cat food, tropical fruit",15
+566,"hygiene articles, root vegetables",15
+567,"meat, soda",15
+568,"whipped/sour cream, white bread",15
+569,"brown bread, white bread",15
+570,"margarine, shopping bags",15
+571,"sugar, tropical fruit",15
+572,"candy, citrus fruit",15
+573,"chicken, root vegetables",15
+574,"tropical fruit, white bread",15
+575,"canned beer, coffee",15
+576,"domestic eggs, white bread",15
+577,"UHT-milk, root vegetables",15
+578,"butter, canned beer",15
+579,"beef, frankfurter",15
+580,"citrus fruit, cream cheese",15
+581,"brown bread, butter",15
+582,"butter milk, root vegetables",15
+583,"bottled beer, chocolate",15
+584,"hard cheese, root vegetables",15
+585,"hamburger meat, pastry",15
+586,"detergent, rolls/buns",15
+587,"canned beer, salty snack",15
+588,"rolls/buns, seasonal products",15
+589,"butter milk, shopping bags",15
+590,"chewing gum, soda",15
+591,"pot plants, whole milk",15
+592,"chicken, domestic eggs",15

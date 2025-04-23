@@ -1,0 +1,114 @@
+{semi-finished bread} -> {whole milk}
+{detergent} -> {whole milk}
+{ham} -> {whole milk}
+{bottled beer} -> {whole milk}
+{frozen fish} -> {whole milk}
+{candy} -> {whole milk}
+{sausage} -> {whole milk}
+{onions} -> {whole milk}
+{processed cheese} -> {rolls/buns}
+{processed cheese} -> {whole milk}
+{newspapers} -> {whole milk}
+{domestic eggs} -> {whole milk}
+{packaged fruit/vegetables} -> {rolls/buns}
+{seasonal products} -> {rolls/buns}
+{cat food} -> {whole milk}
+{waffles} -> {whole milk}
+{hamburger meat} -> {whole milk}
+{frankfurter} -> {whole milk}
+{sugar} -> {whole milk}
+{chewing gum} -> {whole milk}
+{beef} -> {whole milk}
+{flour} -> {whole milk}
+{frankfurter} -> {other vegetables}
+{frozen vegetables} -> {whole milk}
+{pork} -> {whole milk}
+{pip fruit} -> {whole milk}
+{citrus fruit} -> {whole milk}
+{long life bakery product} -> {whole milk}
+{grapes} -> {whole milk}
+{shopping bags} -> {whole milk}
+{butter} -> {whole milk}
+{pasta} -> {whole milk}
+{meat} -> {whole milk}
+{white bread} -> {whole milk}
+{oil} -> {whole milk}
+{yogurt} -> {whole milk}
+{fruit/vegetable juice} -> {whole milk}
+{canned beer} -> {whole milk}
+{pot plants} -> {whole milk}
+{pot plants} -> {other vegetables}
+{ice cream} -> {whole milk}
+{frozen meals} -> {other vegetables}
+{red/blush wine} -> {rolls/buns}
+{hard cheese} -> {whole milk}
+{meat} -> {other vegetables}
+{rolls/buns} -> {whole milk}
+{hygiene articles} -> {whole milk}
+{soft cheese} -> {yogurt}
+{margarine} -> {whole milk}
+{pastry} -> {whole milk}
+{chocolate} -> {whole milk}
+{detergent} -> {yogurt}
+{curd} -> {whole milk}
+{berries} -> {other vegetables}
+{chicken} -> {whole milk}
+{other vegetables} -> {whole milk}
+{cream cheese } -> {whole milk}
+{tropical fruit} -> {whole milk}
+{oil} -> {soda}
+{oil} -> {other vegetables}
+{coffee} -> {whole milk}
+{soft cheese} -> {whole milk}
+{soft cheese} -> {other vegetables}
+{soda} -> {whole milk}
+{specialty bar} -> {whole milk}
+{specialty bar} -> {other vegetables}
+{brown bread} -> {whole milk}
+{chocolate} -> {rolls/buns}
+{UHT-milk} -> {whole milk}
+{bottled water} -> {whole milk}
+{salty snack} -> {other vegetables}
+{beverages} -> {whole milk}
+{chewing gum} -> {yogurt}
+{detergent} -> {rolls/buns}
+{frozen meals} -> {whole milk}
+{ice cream} -> {rolls/buns}
+{hard cheese} -> {other vegetables}
+{hard cheese} -> {rolls/buns}
+{beverages} -> {soda}
+{frozen vegetables} -> {other vegetables}
+{pickled vegetables} -> {whole milk}
+{grapes} -> {other vegetables}
+{fruit/vegetable juice} -> {rolls/buns}
+{flour} -> {tropical fruit}
+{napkins} -> {whole milk}
+{white bread} -> {other vegetables}
+{white wine} -> {whole milk}
+{root vegetables} -> {whole milk}
+{red/blush wine} -> {other vegetables}
+{herbs} -> {yogurt}
+{herbs} -> {whole milk}
+{pork} -> {other vegetables}
+{semi-finished bread} -> {other vegetables}
+{whipped/sour cream} -> {whole milk}
+{processed cheese} -> {root vegetables}
+{curd} -> {other vegetables}
+{beverages} -> {other vegetables}
+{sliced cheese} -> {whole milk}
+{specialty chocolate} -> {other vegetables}
+{berries} -> {whole milk}
+{shopping bags} -> {other vegetables}
+{bottled beer} -> {other vegetables}
+{salty snack} -> {whole milk}
+{salty snack} -> {rolls/buns}
+{chicken} -> {rolls/buns}
+{hygiene articles} -> {other vegetables}
+{candy} -> {rolls/buns}
+{dessert} -> {whole milk}
+{hamburger meat} -> {other vegetables}
+{pip fruit} -> {rolls/buns}
+{pip fruit} -> {other vegetables}
+{UHT-milk} -> {other vegetables}
+{sliced cheese} -> {other vegetables}
+{soft cheese} -> {rolls/buns}
